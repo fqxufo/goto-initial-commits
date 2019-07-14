@@ -6,3 +6,6 @@ chrome web store: https://chrome.google.com/webstore/detail/goto-intial-commits/
 
 Simple way to browse initial commits in github repo
 
+![screenshot1](https://raw.githubusercontent.com/fqxufo/goto-initial-commits/master/sc1.png)
+![screenshot2](https://raw.githubusercontent.com/fqxufo/goto-initial-commits/master/sc2.png)
+
